@@ -9,3 +9,5 @@
 > Activate venv environment: `conda activate ./venv`
 >
 > Deactivate venv environment: `conda deactivate`
+>
+> Install python packages from requirements.txt: `pip install -r requirements.txt`
